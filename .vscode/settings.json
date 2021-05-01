@@ -1,0 +1,4 @@
+{
+    "git.enableCommitSigning": true,
+    "python.pythonPath": "env\\Scripts\\python.exe"
+}
